@@ -7,3 +7,6 @@ but instead of taking an input token at time steps it takes the n-dimensional da
 desired variables for next time steps.
 
 Please see the train scripts for further details on implementation, benchmarks, and graphed results.
+
+To see the visualizations for all the players/results (including players without predictions, and those
+in the train, val, and test sets), please see the React front end here: https://kinderst.github.io/nhl-stat-prediction-site/
